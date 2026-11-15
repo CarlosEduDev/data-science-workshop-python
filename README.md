@@ -6,7 +6,7 @@ Repositório oficial contendo o notebook prático e a base de dados utilizados n
 
 ## 🎯 Sobre o Minicurso
 
-Esta capacitação teve como objetivo introduzir estudantes de graduação ao fluxo real de trabalho em **Ciência de Dados**, partindo da compreensão estratégica do papel do profissional de dados até a implementação prática de coleta, saneamento, estatística descritiva e visualização de dados utilizando Python.
+Esta capacitação teve como objetivo introduzir estudantes de graduação e ao público externo ao fluxo real de trabalho em **Ciência de Dados**, partindo da compreensão estratégica do papel do profissional de dados até a implementação prática de coleta, saneamento, estatística descritiva e visualização de dados utilizando Python.
 
 ### 🧠 Conceitos Abordados na Apresentação
 * **Fundamentos de Ciência de Dados:** A interseção entre Computação, Estatística e Conhecimento de Negócio.
